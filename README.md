@@ -182,14 +182,14 @@ TOTAL TRAINING TIME: ~60-90 minutes (on GPU)
 ### **Metrics Now Available:**
 
 ```
-Your Benchmark Shows:
+Benchmark Shows:
 ┌─────────────────┬──────────┐
 │ EffResNet-ViT   │ 99.31%   │
 │ EfficientNetB0  │ 98.32%   │
 │ ResNet50-ViT    │ 95.58%   │
 └─────────────────┴──────────┘
 
-Your Model Will Show:
+Model Will Show:
 ┌────────────────────────┬──────────┐
 │ Accuracy (%)           │ 98-99%   │
 │ Precision (%)          │ 98-99%   │
@@ -297,7 +297,7 @@ Improvement:              +4-7%   📈 SIGNIFICANT GAIN!
 ```
 Before Optimization:     92-94% accuracy
 After Optimization:      97-99% accuracy
-Your Target (from table): 98-99% accuracy
+Target (from table): 98-99% accuracy
 Expected Match:          ✅ ACHIEVED
 ```
 
@@ -354,7 +354,7 @@ Time Required:           3-4 hours (GPU)
 
 ## 🎯 SUCCESS CRITERIA
 
-✅ **Accuracy Target:** 98-99% (vs your benchmark table)
+✅ **Accuracy Target:** 98-99% (vs benchmark table)
 ✅ **Time Investment:** 60-90 minutes
 ✅ **Documentation:** Complete and detailed
 ✅ **Reproducibility:** Easy to run and modify
@@ -368,7 +368,7 @@ After training completes:
 
 1. **Check Metrics:**
    ```
-   Compare with your benchmark table
+   Compare with benchmark table
    8 metrics will all be visible
    ```
 
