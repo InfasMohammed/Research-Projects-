@@ -420,7 +420,3 @@ After training completes:
 - All on GPU
 
 ---
-
-**🎉 YOUR NOTEBOOK IS NOW READY FOR HIGH-PERFORMANCE TRAINING!**
-
-**Next Step: Run your enhanced notebook and achieve 98-99%+ accuracy!** 🚀
