@@ -324,7 +324,7 @@ Time Required:           3-4 hours (GPU)
 
 ---
 
-## 🎓 What You're Getting
+## 🎓 What Result Getting
 
 ### **Architecture Level:**
 - Pre-trained models (ImageNet weights)
